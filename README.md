@@ -1,4 +1,4 @@
-<h1 align="center">Hi, I'm Hu_sk02</h1>
+<h1 align="center">Hi, I'm Shengkai Hu</h1>
 
 <p align="center">
   AI researcher focused on computer vision, low-level vision, image restoration, and practical research tooling.
